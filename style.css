@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    background-color: black;
+    color: white;
+}
+
+.middle{
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+#copyright{
+    color:white;
+    text-align: center;
+}
